@@ -37,7 +37,7 @@ Publish Date| Type	| Description	| Source
 | July 2023 | Ransomware | Globacom Nigeria's recent ransomware attack was a cyberattack on Globacom Nigeria Ltd., a leading Nigerian telecommunications company, in July 2023. The attack was allegedly carried out by a known ransomware group (ALPHV), a cybercriminal gang that encrypts and steals data from its victims. The hacker, who is demanding $2.5m, claims to have been in control of the network for 12 days undetected | [Community](https://twitter.com/rbiakpara/status/1680546604443488256)
 
 ### `Issues Affecting Cyber Incidents Reporting`
-The main issues affecting reporting cyber incidents are:
+The main issues affecting reporting cyber incidents in Nigeria are:
 1. **Trust and Cultural Problems**: Nigerian organisations have trust issues with security researchers who find vulnerabilities or get access to company data. Some organisations may intimidate or sue the researchers instead of fixing the issues. Some organisations may also fear losing their reputation, investment or customers if they disclose cyberattacks
 2. **Lack of Enforcement**: The Cybercrime Act mandates individuals and organisations to report cyberattacks to the National CERT, but there is no serious enforcement of this law. People do not feel the need to report these incidents and there is no database of known breaches or how they happened
 3. **Low Prioritization of Security**: Many organisations treat security as an afterthought and do not have a dedicated or full-time cybersecurity role. They adopt basic security practices but rarely have a team handling this critical part of their systems1. This makes them more vulnerable to cyberattacks and less prepared to respond to them.
