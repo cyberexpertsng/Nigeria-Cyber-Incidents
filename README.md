@@ -41,7 +41,7 @@ Publish Date| Type	| Description	| Source
 | May 2023 |Breach & Stolen Funds |  Patricia’s recent announcement of a breach on its retail trading app, which froze withdrawals for users. It reveals that the breach happened in January 2022 and cost the company $2 million.| [Tech Cabal](https://techcabal.com/2023/05/27/patricia-loses-2m-to-hack/)
 | July 2023 | Defacement |The Ogun State Government website was defaced with a message hinting the technical team to update their security. | [Punch](https://punchng.com/hacker-takes-over-ogun-govt-website/)
 | July 2023 | Ransomware | Globacom Nigeria's recent ransomware attack was a cyberattack on Globacom Nigeria Ltd., a leading Nigerian telecommunications company, in July 2023. The attack was allegedly carried out by a known ransomware group (ALPHV), a cybercriminal gang that encrypts and steals data from its victims. The hacker, who is demanding $2.5m, claims to have been in control of the network for 12 days undetected | [Community](https://twitter.com/rbiakpara/status/1680546604443488256)
-
+| July 2023 | DDoS | Anonymous Sudan | [Community & Whitehat.NG]()
 ### `Issues Affecting Cyber Incidents Reporting`
 The main issues affecting reporting cyber [incidents](https://github.com/cyberexpertsng/Nigeria-Cyber-Incidents#nigeria-cyber-incidents) in Nigeria are:
 1. **Trust and Cultural Problems**: Nigerian organisations have trust issues with security researchers who find vulnerabilities or get access to company data. Some organisations may intimidate or sue the researchers instead of fixing the issues. Some organisations may also fear losing their reputation, investment or customers if they disclose cyberattacks
