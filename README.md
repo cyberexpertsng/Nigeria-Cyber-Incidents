@@ -1,6 +1,7 @@
 ![ngwhitehat-banner](https://raw.githubusercontent.com/ngwhitehat/Lessons-From-Disclosures/main/res/ngwhitehat-banner.png)
 # Nigeria-Cyber-Incidents
-A repository for tracking events related to the cybersecurity incidents in Nigeria, as reported publicly, documented  by affected organizations or shared internally within the community. See [problems](https://github.com/cyberexpertsng/Nigeria-Cyber-Incidents/blob/main/README.md#issues-affecting-cyber-incidents-reporting) we are solving with this
+A repository for tracking events related to the cybersecurity incidents in Nigeria, as reported publicly, documented  by affected organizations or shared internally within the community. See [problems](https://github.com/cyberexpertsng/Nigeria-Cyber-Incidents/blob/main/README.md#issues-affecting-cyber-incidents-reporting) we are solving with this.
+# Report an Incident NOW
 ### `Nigeria-Cyber-Incidents`
 
 Publish Date| Type	| Description	| Source
